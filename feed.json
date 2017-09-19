@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "pcys",
+    "description": "",
+    "home_page_url": "https://tneupaney.github.io/pcys",
+    "feed_url": "https://tneupaney.github.io/pcys/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Tushar Neupaney"
+    },
+    "items": [
+    ]
+}
