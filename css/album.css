@@ -7,11 +7,14 @@ body {
 }
 
 .jumbotron {
-  padding-top: 6rem;
+  padding-top: 20rem;
   padding-bottom: 6rem;
   margin-bottom: 0;
   /* background-color: #fff; */
   background-image: url("../data/img/bg.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 90%;
 }
 
 .jumbotron p:last-child {
