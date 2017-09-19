@@ -3,10 +3,26 @@
     <title>pcys</title>
     <link href="https://tneupaney.github.io/pcys/feed.xml" rel="self" />
     <link href="https://tneupaney.github.io/pcys" />
-    <updated>1970-01-01T05:30:00+05:30</updated>
+    <updated>2017-09-19T17:50:42+05:30</updated>
     <author>
         <name>Tushar Neupaney</name>
     </author>
     <id>https://tneupaney.github.io/pcys</id>
 
+    <entry>
+        <title>Introduction</title>
+        <author>
+            <name>Tushar Neupaney</name>
+        </author>
+        <link href="https://tneupaney.github.io/pcys/introduction.html"/>
+        <id>https://tneupaney.github.io/pcys/introduction.html</id>
+
+        <updated>2017-09-19T17:50:32+05:30</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                PRAJA CHAITANYA YUVAJANA SANGAM (PCYS) registered in the year 1997 is a voluntary organization established in Andhra Pradesh, India with the aim to develop the downtrodden, backward communities and economically poor in the village, urban and tribal areas. Our mission is to contribute towards minimizing human suffering in the fields of EDUCATION, HEALTH, POVERTY, UNEMPLOYMENT, ILLITERACY etc. Our main effort behind our programs is to fulfill our mission of contributing towards human suffering where health is concerned. To achieve this, we endeavor to pay more attention to health facilities and awareness programs for the more vulnerable population. We aim to build a healthy society that would promote National Integration and development with the help of editing, translating, lecturing, publishing and counseling literature of such nature Our Vision focus is on the rights of India's most marginalized communities: Dalit and indigenous people, tribal people, rural and urban poor, uneducated people, women, children and minorities. These groups face an acute lack of access to and control over resources, services and institutions. We pay special attention to those in vulnerable situations such as people living with chronic hunger, HIV/AIDS or disability, migrant and bonded workers, children who are out of school, city dwellers without a home, and people whose land or livelihood is under threat. We also work with women, men, girls and boys who have been trafficked, displaced or hit by natural and human made disasters.
+            ]]>
+        </content>
+    </entry>
 </feed>
