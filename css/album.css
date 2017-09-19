@@ -1,16 +1,42 @@
 body {
   min-height: 75rem; /* Can be removed; just added for demo purposes */
+  font-family: "Helvetica Neue", Arial, sans-serif;
+}
+
+.logo {
+  height: 64px;
+  padding-right: 1rem;
+}
+
+.btn-distinct {
+  border: 5px solid #000;
+  color:white;
+  background-color:rgba(35, 128, 255, 0.8);
+  font-size: 21px;
 }
 
 .navbar {
   margin-bottom: 0;
 }
 
+.bg-dark {
+  top:0;
+  position: fixed;
+  width: 100%;
+  z-index: 9999;
+  background-color:  rgba(35, 128, 255, 0.8) !important;
+}
+.navbar-dark .navbar-brand {
+  color: #FFFF;
+  font-weight: bold;
+}
+
 .jumbotron {
-  padding-top: 20rem;
+  margin-top: 5rem;
+  padding-top: 25rem;
   padding-bottom: 6rem;
   margin-bottom: 0;
-  /* background-color: #fff; */
+  background-color: #fff;
   background-image: url("../data/img/bg.jpg");
   background-repeat: no-repeat;
   background-position: center;
